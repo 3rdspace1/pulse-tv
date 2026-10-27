@@ -1,0 +1,12 @@
+{
+  "name": "pulse-sport-tv",
+  "version": "0.1.0",
+  "description": "Pulse Sport for Samsung TVs: every game, where it's on, and your own IPTV provider's channels.",
+  "packageType": "app",
+  "appName": "Pulse Sport",
+  "appPath": "app/index.html",
+  "serviceFile": "service/index.cjs",
+  "keys": ["ChannelUp", "ChannelDown", "MediaPlayPause", "MediaPlay", "MediaPause", "MediaStop", "ColorF0Red", "ColorF1Green", "ColorF2Yellow", "ColorF3Blue"],
+  "files": ["app", "service", "icon.png", "README.md"],
+  "license": "UNLICENSED"
+}
